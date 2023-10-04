@@ -1,0 +1,16 @@
+Jul 10, 2023 12:47:45 PM myapp.NewLogs logger
+WARNING: Adminfailed' logged in
+Jul 11, 2023 3:26:02 PM myapp.NewLogs logger
+WARNING: Adminfailed' logged in
+Jul 11, 2023 3:27:26 PM myapp.NewLogs logger
+WARNING: Adminfailed' logged in
+Jul 11, 2023 3:27:33 PM myapp.NewLogs logger
+WARNING: Adminfailed' logged in
+Jul 11, 2023 3:31:15 PM myapp.NewLogs logger
+WARNING: Adminfailed' logged in
+Jul 11, 2023 3:32:20 PM myapp.NewLogs logger
+WARNING: Adminfailed' logged in
+Jul 11, 2023 3:34:34 PM myapp.NewLogs logger
+INFO: AdminSuccess' logged in
+Oct 04, 2023 11:02:38 AM myapp.NewLogs logger
+INFO: AdminSuccess' logged in
